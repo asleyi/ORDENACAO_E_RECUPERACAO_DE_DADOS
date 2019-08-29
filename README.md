@@ -1,3 +1,7 @@
+Trabalho realizado por Asley Ingrid e Nayara Xavier para disciplina de Ordenação e Recuperação de Dados. 
+
+
+
 # IMPLEMENTAÇÃO DO ALGORITMO COUTING SORT E RADIX SORT
 
 **Counting Sort**
