@@ -10,6 +10,7 @@
 
 <p>
  Nesse algoritmo, foi usada uma lista de números aleatórios. O tempo de execução foi de 0.131s. Veja abaixo a saída do algoritmo:
-  ![saida_e_tempoDeExec_CS](https://github.com/asleyi/ORDENACAO_E_RECUPERACAO_DE_DADOS/blob/master/saida_e_tempoDeExec_CS.PNG)
+  ![saida_e_tempoDeExec_CS](https://github.com/asleyi/ORDENACAO_E_RECUPERACAO_DE_DADOS/blob/master/saida_e_tempoDeExec_CS.PNG)]
+ </p>
  
   
