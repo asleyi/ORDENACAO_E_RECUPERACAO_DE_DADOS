@@ -18,4 +18,9 @@
   
  </p>
  
-  
+  **Radix Sort**
+<p>
+  Este, trabalha com números de d dígitos e ordena os elementos coluna por coluna. De forma não intuitiva, a odenação começa pelo número menos significativo. O processo continua até os elementos terem sido ordenados sobre todos os dígitos d. 
+  </p>
+ <p>
+  A lista de números foi a mesma usada no algoritmo acima. E o tempo de execução desse algoritmo foi de 
