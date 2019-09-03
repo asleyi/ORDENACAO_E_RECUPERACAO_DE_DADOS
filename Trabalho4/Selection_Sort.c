@@ -1,4 +1,6 @@
 main(){
+///Ordena uma tabela usando seleção direta
+    
     void SelectionSort(int tabela[], int nElem){
         int i, j, iMenor;
 
