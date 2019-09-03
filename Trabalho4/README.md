@@ -19,7 +19,7 @@ Trabalho realizado por Asley Ingrid e Nayara Xavier.
   
 **INSERTION SORT (Ordenação por Inserção)**
 <p>
-  Neste algoritmo, o melhor caso ocorre quando as chaves já estão ordenadas e o pior caso, quando as chaves estão em ordem inversa. Ele requer atribuições entre chaves, em vez de trocas de chaves (que requerem três atribuições), e o número de atribuições é aproximadamente igual ao número de comparações de chavese.
+  Neste algoritmo, o melhor caso ocorre quando as chaves já estão ordenadas e o pior caso, quando as chaves estão em ordem inversa. Ele requer atribuições entre chaves, em vez de trocas de chaves (que requerem três atribuições), e o número de atribuições é aproximadamente igual ao número de comparações de chaves.
   </p>
 <p>
   Ele é o mais versátil dos algoritmos básicos de ordenação e é uma boa escolha quando a tabela a ser ordenada estiver quase ordenada ou for pequena. Ele é o algoritmo mais usado dentre aqueles com custo temporal quadrático e é frequentemente usado como algoritmo auxiliar de Quic kSort e MergeSort. InsertionSort pode ainda ser facilmente adaptado para ordenação de listas encadeadas.
