@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+///Ordena uma tabela usando ordenação por inserção
 main (){
     void InsertionSort(int tabela[], int nElem){
         int i, j, aux;
