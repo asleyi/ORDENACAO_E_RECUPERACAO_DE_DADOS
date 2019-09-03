@@ -1,7 +1,7 @@
 Trabalho realizado por Asley Ingrid e Nayara Xavier.
 
 
-__________________________________ IMPLEMENTAÇÃO DOS ALGORITMOS SELECTION SORT E INSERTION SORT ___________________________________
+__________________________ IMPLEMENTAÇÃO DOS ALGORITMOS SELECTION SORT E INSERTION SORT _______________________________
 
 
 **SELECTION SORT (Ordenação por Seleção Direta)**
